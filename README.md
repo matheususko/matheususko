@@ -1,6 +1,6 @@
    
 <img align="right" height="590em" src="./source/susko.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Matheus Susko</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheususko&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Dev, programming for web & app
@@ -33,7 +33,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="630em" src="https://github-readme-stats.vercel.app/api?username=matheususko&show_icons=true&theme=vision-friendly-light" alt="matheususko's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheususko&show_icons=true&theme=vision-friendly-light" alt="matheususko's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheususko&layout=compact&theme=vision-friendly-light" alt="matheususko's most languages"/>
 </p>
 
